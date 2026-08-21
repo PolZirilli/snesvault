@@ -63,25 +63,11 @@
         "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Final%20Fight%203%20(ESP).sfc"
     },
     {
-        "id": "FinalFightGuy",
-        "name": "Final Fight Guy",
-        "region": "🇪🇸",
-        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Final%20Fight%20Guy%20(USA).png",
-        "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Final%20Fight%20Guy%20(ESP)%20-%20Sin%20Censura%20-.sfc"
-    },
-    {
         "id": "Flashback",
         "name": "Flashback",
         "region": "🇪🇸",
         "cover": "https://thumbnails.libretro.com/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/Named_Boxarts/Flashback%20(Europe)%20(En,Fr)%20(Beta).png",
         "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Flashback%20-%20The%20Quest%20for%20Identity%20(ESP).fig"
-    },
-    {
-        "id": "FutbolArgentino96",
-        "name": "Futbol Argentino '96",
-        "region": "🇪🇸",
-        "cover": "",
-        "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Futbol%20Argentino%20'96%20(ESP).smc"
     },
     {
         "id": "KirbyDreamLand3",
@@ -105,13 +91,6 @@
         "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Mega%20Man%20X%20(USA).sfc"
     },
     {
-        "id": "RoboCopVersusTheTerminator",
-        "name": "RoboCop Versus The Terminator",
-        "region": "🇪🇸",
-        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/RoboCop%20versus%20The%20Terminator%20(USA).png",
-        "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/RoboCop%20Versus%20The%20Terminator%20(ESP).sfc"
-    },
-    {
         "id": "Spawn",
         "name": "Spawn",
         "region": "🇪🇸",
@@ -124,13 +103,6 @@
         "region": "🇪🇸",
         "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Spider-Man%20-%20X-Men%20-%20Arcade's%20Revenge%20(USA).png",
         "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Spider-Man%20-%20X-Men%20-%20Arcade's%20Revenge%20(ESP).sfc"
-    },
-    {
-        "id": "SuperMarioWorld",
-        "name": "Super Mario World",
-        "region": "🇬🇧",
-        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Mario%20World%20(USA).png",
-        "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/SuperMarioWorld.sfc"
     },
     {
         "id": "SuperMarioAllStarsPlusSuperMarioWorld",
@@ -166,12 +138,5 @@
         "region": "🇬🇧",
         "cover": "https://thumbnails.libretro.com/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/Named_Boxarts/Super%20Bomberman%20(Europe).png",
         "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Super%20Bomberman%20(USA).sfc"
-    },
-    {
-        "id": "Terminator2",
-        "name": "Terminator 2",
-        "region": "🇪🇸",
-        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Terminator%2C%20The%20(USA).png",
-        "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Terminator%202%20-%20Judgment%20Day%20(ESP).sfc"
     }
 ]
