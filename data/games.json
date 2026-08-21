@@ -1,23 +1,23 @@
 [
-    {
-        "id": "SuperMarioWorld",
-        "name": "Super Mario World",
-        "region": "🇬🇧",
-        "cover": "",
-        "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/SuperMarioWorld.sfc"
-    },
-    {
-        "id": "LegendofZelda",
-        "name": "The Legend of Zelda",
-        "region": "🇬🇧",
-        "cover": "",
-        "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/LegendofZelda.sfc"
-    },
-    {
-        "id": "DonkeyKongCountry",
-        "name": "Donkey Kong Country",
-        "region": "🇬🇧",
-        "cover": "",
-        "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/DonkeyKongCountry.sfc"
-    }
+  {
+    "id": "SuperMarioWorld",
+    "name": "Super Mario World",
+    "region": "🇬🇧",
+    "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Mario%20World%20(USA).png",
+    "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/SuperMarioWorld.sfc"
+  },
+  {
+    "id": "LegendofZelda",
+    "name": "The Legend of Zelda",
+    "region": "🇬🇧",
+    "cover": "",
+    "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/LegendofZelda.sfc"
+  },
+  {
+    "id": "DonkeyKongCountry",
+    "name": "Donkey Kong Country",
+    "region": "🇬🇧",
+    "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Donkey%20Kong%20Country%20(USA)%20(Rev%201).png",
+    "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/DonkeyKongCountry.sfc"
+  }
 ]
