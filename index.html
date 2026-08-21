@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SNESvault — Super Nintendo</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+
+  <header>
+    <div class="logo">SNES<span>vault</span></div>
+    <div class="subtitle">Emulador de Super Nintendo (SNES)</div>
+  </header>
+
+  <main class="layout">
+
+    <!-- ══ COLUMNA CONSOLA ══ -->
+    <section class="console-col">
+      <div class="console-body">
+
+        <div class="screen-bezel">
+          <div class="screen-wrap" id="screenWrap">
+            <canvas id="splashCanvas" width="256" height="224"></canvas>
+            <div id="emuContainer"></div>
+            <div id="loaderOverlay">
+              <div class="spin"></div>
+              <p id="loaderText">CARGANDO JUEGO...</p>
+            </div>
+            <button class="btn-fullscreen" id="btnFullscreen" title="Fullscreen">⛶</button>
+          </div>
+          <div class="screen-label">SUPER NINTENDO · 60Hz · NTSC</div>
+        </div>
+
+        <div class="status-bar">
+          <div class="led" id="led"></div>
+          <span id="statusText"></span>
+          <span class="fps-counter" id="fpsCounter"></span>
+        </div>
+
+        <div id="errorBox">
+          <strong>⚠ ERROR</strong>
+          <span id="errorMsg"></span>
+          <code id="errorHint"></code>
+        </div>
+
+        <div class="gamepad-bar">
+          <span>🕹️</span>
+          <span id="gamepadStatus">Control no detectado - Conecte un control y presione cualquier boton</span>
+        </div>
+
+        <div class="btn-row">
+          <button class="btn btn-primary" id="btnPlay" disabled>▶ COMENZAR</button>
+          <button class="btn btn-secondary" id="btnPause" disabled>⏸ PAUSAR</button>
+          <button class="btn btn-danger" id="btnStop" disabled>⏹ DETENER</button>
+        </div>
+
+        <button class="btn-controls-toggle" id="btnControls">◈ Ver Controles</button>
+
+      </div>
+    </section>
+
+    <!-- ══ COLUMNA ROMS — buscador + carousel (máx. 2 filas) + carga ══ -->
+    <aside class="roms-col">
+      <h2 class="roms-heading">◈ Catálogo</h2>
+
+      <div class="rom-search">
+        <span class="rom-search-icon">🔍</span>
+        <input type="text" id="romSearch" placeholder="Buscar juego...">
+      </div>
+
+      <div class="rom-carousel">
+        <div class="rom-track" id="romTrack">
+          <!-- páginas de tarjetas generadas por js/app.js a partir de ROM_LIBRARY -->
+        </div>
+      </div>
+
+      <div class="rom-pagination">
+        <button class="page-arrow" id="pagePrev">‹</button>
+        <div class="page-dots" id="pageDots"></div>
+        <button class="page-arrow" id="pageNext">›</button>
+      </div>
+
+      <div class="file-drop" id="fileDrop">
+        <span class="drop-icon">⬆</span>
+        <span class="drop-title">CARGAR JUEGO</span>
+        <span class="drop-sub">Arrastrá y soltá tu archivo acá<br>.sfc / .smc</span>
+        <span class="rom-name" id="romName"></span>
+        <input type="file" id="romInput" accept=".sfc,.smc,.rom">
+      </div>
+    </aside>
+
+  </main>
+
+  <!-- POPUP DE CONTROLES -->
+  <div id="controlsOverlay" class="controls-overlay" aria-hidden="true">
+    <div class="controls-popup">
+
+      <div class="controls-popup-header">
+        <span>◈ CONTROLES</span>
+        <button class="controls-close" id="btnControlsClose">✕</button>
+      </div>
+
+      <div class="ctrl-tabs">
+        <button class="ctrl-tab active" data-panel="panelKeyboard">⌨ TECLADO</button>
+        <button class="ctrl-tab" data-panel="panelGamepad">🎮 CONTROL</button>
+      </div>
+
+      <div class="ctrl-panel active" id="panelKeyboard">
+        <div class="gpmap-header">
+          <span class="gpmap-device">Editá las teclas a tu gusto</span>
+          <button class="gpmap-reset-btn" id="btnKeymapReset">↺ Reset defaults</button>
+        </div>
+        <div class="gpmap-hint">Presiona <strong>Set</strong> junto a una acción, y luego presiona la tecla que querés
+          usar. Se aplica la próxima vez que cargues un ROM.</div>
+
+        <div class="keymap-columns">
+          <div class="keymap-col">
+            <div class="keymap-col-title">D-Pad</div>
+            <div class="gpmap-list" id="keymapDpadList"></div>
+          </div>
+          <div class="keymap-col">
+            <div class="keymap-col-title">Botones</div>
+            <div class="keymap-buttons-grid" id="keymapButtonsList"></div>
+          </div>
+        </div>
+
+        <div class="keymap-col-title keymap-extra-title">START / SELECT</div>
+        <div class="gpmap-list keymap-extra" id="keymapExtraList"></div>
+
+        <div class="controls-shortcuts">
+          <div class="shortcut-title">Atajos internos (SuperNintendo.js)</div>
+          <div class="shortcut-inline">
+            <span class="shortcut-chip"><span class="shortcut-label">Guardar estado</span><span
+                class="shortcut-key">Ctrl/Cmd+1</span></span>
+            <span class="shortcut-chip"><span class="shortcut-label">Cargar estado</span><span
+                class="shortcut-key">Ctrl/Cmd+2</span></span>
+            <span class="shortcut-chip"><span class="shortcut-label">Silenciar</span><span
+                class="shortcut-key">Ctrl/Cmd+3</span></span>
+            <span class="shortcut-chip"><span class="shortcut-label">Pantalla completa</span><span
+                class="shortcut-key">Ctrl/Cmd+F</span></span>
+            <span class="shortcut-chip"><span class="shortcut-label">Reiniciar</span><span
+                class="shortcut-key">Ctrl/Cmd+R</span></span>
+          </div>
+        </div>
+      </div>
+
+      <div class="ctrl-panel" id="panelGamepad">
+        <div class="gpmap-header">
+          <span id="gpName" class="gpmap-device">No gamepad connected</span>
+          <button class="gpmap-reset-btn" id="btnGPReset">↺ Reset defaults</button>
+        </div>
+        <div class="gpmap-hint">Presiona <strong>Set</strong> junto a una acción, y luego presiona el botón físico de tu
+          gamepad. Se aplica la próxima vez que cargues un ROM.</div>
+        <div id="gpMapList" class="gpmap-list"></div>
+      </div>
+
+    </div>
+  </div>
+
+  <footer>SNESvault · Super Nintendo Emulator · SuperNintendo.js (Snes9x 2005) · Gamepad API</footer>
+
+  <script src="js/SuperNintendo.min.js"></script>
+  <script src="js/gamepad-mappings.js"></script>
+  <script src="js/app.js"></script>
+</body>
+
+</html>
