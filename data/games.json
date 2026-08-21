@@ -19,5 +19,68 @@
         "region": "🇬🇧",
         "cover": "https://thumbnails.libretro.com/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/Named_Boxarts/Donkey%20Kong%20Country%20(Europe)%20(En,Fr,De)%20(Rev%201).png",
         "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/DonkeyKongCountry.sfc"
+    },
+    {
+        "id": "SuperMarioAllStarsPlusSuperMarioWorld",
+        "name": "Super Mario All-Stars + Super Mario World",
+        "region": "🇬🇧",
+        "cover": "",
+        "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Super%20Mario%20All-Stars%20%2B%20Super%20Mario%20World%20(USA).sfc"
+    },
+    {
+        "id": "SuperMarioKart",
+        "name": "Super Mario Kart",
+        "region": "🇬🇧",
+        "cover": "",
+        "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Super%20Mario%20Kart%20(USA).sfc"
+    },
+    {
+        "id": "SuperMetroid",
+        "name": "Super Metroid",
+        "region": "🇬🇧",
+        "cover": "",
+        "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Super%20Metroid%20(Japan,%20USA)%20(En,Ja).sfc"
+    },
+    {
+        "id": "SuperPunch-Out!!",
+        "name": "Super Punch-Out!!",
+        "region": "🇬🇧",
+        "cover": "",
+        "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Super%20Punch-Out!!%20(USA).sfc"
+    },
+    {
+        "id": "SuperBomberman",
+        "name": "Super Bomberman",
+        "region": "🇬🇧",
+        "cover": "",
+        "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Super%20Bomberman%20(USA).sfc"
+    },
+    {
+        "id": "MegaManX",
+        "name": "Mega Man X",
+        "region": "🇬🇧",
+        "cover": "",
+        "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Mega%20Man%20X%20(USA).sfc"
+    },
+    {
+        "id": "DonkeyKongCountry2",
+        "name": "Donkey Kong Country 2: Diddy's Kong Quest",
+        "region": "🇬🇧",
+        "cover": "",
+        "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Donkey%20Kong%20Country%202%20-%20Diddy's%20Kong%20Quest%20(USA)%20(En%2CFr)%20(Rev%201).sfc"
+    },
+    {
+        "id": "DonkeyKongCountry3",
+        "name": "Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+        "region": "🇬🇧",
+        "cover": "",
+        "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Donkey%20Kong%20Country%203%20-%20Dixie%20Kong's%20Double%20Trouble!%20(USA)%20(En%2CFr).sfc"
+    },
+    {
+        "id": "ContraIII",
+        "name": "Contra III: The Alien Wars",
+        "region": "🇬🇧",
+        "cover": "",
+        "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Contra%20III%20-%20The%20Alien%20Wars%20(USA).sfc"
     }
 ]
