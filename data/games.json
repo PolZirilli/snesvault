@@ -1,12 +1,5 @@
 [
     {
-        "id": "BatmanRevengeOfTheJoker",
-        "name": "Batman: Revenge of the Joker",
-        "region": "🇪🇸",
-        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Batman%20-%20Revenge%20of%20the%20Joker%20(USA)%20(Proto).png",
-        "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Batman%20-%20Revenge%20of%20the%20Joker%20(U).smc"
-    },
-    {
         "id": "ContraIIITheAlienWars",
         "name": "Contra III: The Alien Wars",
         "region": "🇪🇸",
@@ -35,13 +28,6 @@
         "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Donkey%20Kong%20Country%203%20-%20Dixie%20Kong's%20Double%20Trouble!%20(USA)%20(En%2CFr).sfc"
     },
     {
-        "id": "DaffyDuckTheMarvinMissions",
-        "name": "Daffy Duck: The Marvin Missions",
-        "region": "🇪🇸",
-        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Daffy%20Duck%20-%20The%20Marvin%20Missions%20(USA)%20(Sample).png",
-        "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Daffy%20Duck%20-%20The%20Marvin%20Missions%20(ESP).sfc"
-    },
-    {
         "id": "Earthbound",
         "name": "Earthbound",
         "region": "🇪🇸",
@@ -67,7 +53,7 @@
         "name": "Final Fight 2",
         "region": "🇪🇸",
         "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Final%20Fight%202%20(USA).png",
-        "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Final%20Fight%202%20(ESP).sfc"
+        "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Final%20Fight%202%20(ESP).fig"
     },
     {
         "id": "FinalFight3",
@@ -88,14 +74,14 @@
         "name": "Flashback",
         "region": "🇪🇸",
         "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Flashback%20(Europe)%20(En%2CFr).png",
-        "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Flashback%20-%20The%20Quest%20for%20Identity%20(ESP).sfc"
+        "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Flashback%20-%20The%20Quest%20for%20Identity%20(ESP).fig"
     },
     {
         "id": "FutbolArgentino96",
         "name": "Futbol Argentino '96",
         "region": "🇪🇸",
         "cover": "",
-        "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Futbol%20Argentino%20'96%20(ESP).sfc"
+        "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Futbol%20Argentino%20'96%20(ESP).smc"
     },
     {
         "id": "KirbyDreamLand3",
