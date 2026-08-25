@@ -68,37 +68,88 @@ select {
     font-size: var(--fs-min);
 }
 
-/* ══ HEADER ══ */
-header {
-    text-align: center;
-    margin-bottom: 18px;
+/* ══ HEADER — logo-ícono a la izquierda (control de esta consola) +
+   navbar de íconos a la derecha (controles de los otros emuladores
+   de la familia Vault, cada uno linkea al sitio hermano). Mismo
+   concepto y misma estructura que NESvault/GENvault, con el logo
+   propio de cada uno a la izquierda. ══ */
+.site-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 14px;
     max-width: 1400px;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0 auto 18px;
 }
 
-.logo {
-    font-family: 'Orbitron', sans-serif;
-    font-weight: 900;
-    font-size: clamp(22px, 5vw, 38px);
-    color: var(--text);
-    letter-spacing: 6px;
-    text-shadow:
-        0 1px 0 rgba(255, 255, 255, 0.65),
-        0 2px 0 var(--border2),
-        0 0 22px var(--purple-glow);
+.brand-logo {
+    display: block;
+    flex: none;
+    width: 190px;
+    filter: drop-shadow(0 2px 0 var(--border2)) drop-shadow(0 0 14px var(--purple-glow));
+    transition: transform .12s ease;
 }
 
-.logo span {
-    color: var(--purple);
+.brand-logo:hover {
+    transform: translateY(-2px);
 }
 
-.subtitle {
-    font-size: var(--fs-sm);
-    color: var(--chrome-dk);
-    letter-spacing: 1px;
-    margin-top: 2px;
-    text-transform: uppercase;
+.brand-logo img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.vault-nav {
+    display: flex;
+    flex: none;
+    align-items: center;
+    gap: 10px;
+}
+
+.vault-nav-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 96px;
+    height: 62px;
+    padding: 6px 8px;
+    background: var(--panel2);
+    border: 1px solid var(--border2);
+    box-shadow: 0 3px 0 var(--border2);
+    transition: all .12s;
+}
+
+.vault-nav-icon img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.vault-nav-icon:hover {
+    border-color: var(--purple);
+    box-shadow: 0 4px 0 var(--border2), 0 0 18px var(--purple-glow);
+    transform: translateY(-2px);
+}
+
+.vault-nav-icon:active {
+    transform: translateY(1px);
+    box-shadow: 0 1px 0 var(--border2);
+}
+
+@media (max-width: 560px) {
+    .site-header {
+        justify-content: center;
+    }
+    .brand-logo {
+        width: 138px;
+    }
+    .vault-nav-icon {
+        width: 72px;
+        height: 48px;
+        padding: 4px 6px;
+    }
 }
 
 /* ══════════════════════════════════════════
