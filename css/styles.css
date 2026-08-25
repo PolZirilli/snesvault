@@ -59,7 +59,7 @@ body {
     line-height: 1.4;
     letter-spacing: normal;
     min-height: 100vh;
-    padding: 24px clamp(12px, 3vw, 32px) 48px;
+    padding: 0;
 }
 
 button,
@@ -78,22 +78,21 @@ select {
     align-items: center;
     justify-content: space-between;
     flex-wrap: wrap;
-    gap: 14px;
+    gap: 0.85rem;
     max-width: 1400px;
-    margin: 0 auto 18px;
+    margin: 0 auto;
+    padding: 0rem 1.25rem;
 }
 
 .brand-logo {
     display: block;
     flex: none;
     width: 190px;
-    filter: drop-shadow(0 2px 0 var(--border2)) drop-shadow(0 0 14px var(--purple-glow));
-    transition: transform .12s ease;
+    filter: drop-shadow(3px 3px 0 var(--purple-glow));
+    transition: transform 0.1s ease;
 }
 
-.brand-logo:hover {
-    transform: translateY(-2px);
-}
+
 
 .brand-logo img {
     display: block;
@@ -105,20 +104,17 @@ select {
     display: flex;
     flex: none;
     align-items: center;
-    gap: 10px;
+    gap: 0.6rem;
 }
 
 .vault-nav-icon {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 96px;
-    height: 62px;
-    padding: 6px 8px;
-    background: var(--panel2);
-    border: 1px solid var(--border2);
-    box-shadow: 0 3px 0 var(--border2);
-    transition: all .12s;
+    width: 110px;
+    height: 110px;
+    padding: 4px 0px;
+    transition: transform 0.08s ease, box-shadow 0.08s ease;
 }
 
 .vault-nav-icon img {
@@ -128,14 +124,11 @@ select {
 }
 
 .vault-nav-icon:hover {
-    border-color: var(--purple);
-    box-shadow: 0 4px 0 var(--border2), 0 0 18px var(--purple-glow);
-    transform: translateY(-2px);
+    transform: translate(-2px, -2px);
 }
 
 .vault-nav-icon:active {
-    transform: translateY(1px);
-    box-shadow: 0 1px 0 var(--border2);
+    transform: translate(1px, 1px);
 }
 
 @media (max-width: 560px) {
