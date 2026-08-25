@@ -3,28 +3,28 @@
         "id": "ContraIIITheAlienWars",
         "name": "Contra III: The Alien Wars",
         "region": "🇪🇸",
-        "cover": "https://thumbnails.libretro.com/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/Named_Boxarts/Contra%20III%20-%20The%20Alien%20Wars%20(USA)%20(Beta).png",
+        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Contra%20III%20-%20The%20Alien%20Wars%20(USA)%20(Beta).png",
         "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Contra%20III%20-%20The%20Alien%20Wars%20(ESP).sfc"
     },
     {
         "id": "DonkeyKongCountry",
         "name": "Donkey Kong Country",
         "region": "🇪🇸",
-        "cover": "https://thumbnails.libretro.com/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/Named_Boxarts/Donkey%20Kong%20Country%20(Europe)%20(En,Fr,De)%20(Rev%201).png",
+        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Donkey%20Kong%20Country%20(USA)%20(Rev%201).png",
         "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Donkey%20Kong%20Country%20(ESP).smc"
     },
     {
         "id": "DonkeyKongCountry2",
         "name": "Donkey Kong Country 2: Diddy's Kong Quest",
         "region": "🇪🇸",
-        "cover": "https://thumbnails.libretro.com/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/Named_Boxarts/Donkey%20Kong%20Country%202%20-%20Diddy's%20Kong%20Quest%20(Europe)%20(En,Fr)%20(Rev%201)%20(Virtual%20Console).png",
+        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Donkey%20Kong%20Country%202%20-%20Diddy's%20Kong%20Quest%20(USA)%20(En%2CFr)%20(Rev%201).png",
         "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Donkey%20Kong%20Country%202%20-%20Diddy's%20Kong%20Quest%20(ESP).sfc"
     },
     {
         "id": "DonkeyKongCountry3",
         "name": "Donkey Kong Country 3: Dixie Kong's Double Trouble!",
         "region": "🇬🇧",
-        "cover": "https://thumbnails.libretro.com/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/Named_Boxarts/Donkey%20Kong%20Country%203%20-%20Dixie%20Kong's%20Double%20Trouble!%20(Europe)%20(En,Fr,De).png",
+        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Donkey%20Kong%20Country%203%20-%20Dixie%20Kong's%20Double%20Trouble!%20(USA)%20(En%2CFr).png",
         "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Donkey%20Kong%20Country%203%20-%20Dixie%20Kong's%20Double%20Trouble!%20(USA)%20(En%2CFr).sfc"
     },
     {
@@ -59,14 +59,14 @@
         "id": "FinalFight3",
         "name": "Final Fight 3",
         "region": "🇪🇸",
-        "cover": "https://thumbnails.libretro.com/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/Named_Boxarts/Final%20Fight%203%20(Europe).png",
+        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Final%20Fight%203%20(USA)%20(Beta).png",
         "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Final%20Fight%203%20(ESP).sfc"
     },
     {
         "id": "Flashback",
         "name": "Flashback",
         "region": "🇪🇸",
-        "cover": "https://thumbnails.libretro.com/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/Named_Boxarts/Flashback%20(Europe)%20(En,Fr)%20(Beta).png",
+        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Flashback%20(Europe)%20(En%2CFr).png",
         "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Flashback%20-%20The%20Quest%20for%20Identity%20(ESP).fig"
     },
     {
@@ -87,7 +87,7 @@
         "id": "MegaManX",
         "name": "Mega Man X",
         "region": "🇬🇧",
-        "cover": "https://thumbnails.libretro.com/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/Named_Boxarts/Mega%20Man%20X%20(Europe).png",
+        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Mega%20Man%20X%20(USA)%20(Rev%201).png",
         "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Mega%20Man%20X%20(USA).sfc"
     },
     {
@@ -136,14 +136,14 @@
         "id": "SuperBomberman",
         "name": "Super Bomberman",
         "region": "🇬🇧",
-        "cover": "https://thumbnails.libretro.com/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/Named_Boxarts/Super%20Bomberman%20(Europe).png",
+        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Bomberman%20(USA)%20(Sample).png",
         "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Super%20Bomberman%20(USA).sfc"
     },
     {
         "id": "Alien3",
         "name": "Alien 3",
         "region": "🇪🇸",
-        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Alien%203%20(USA).png",
+        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Alien%203%20(USA)%20(Beta).png",
         "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Alien%203.smc"
     },
     {
@@ -157,14 +157,14 @@
         "id": "ChronoTrigger",
         "name": "Chrono Trigger",
         "region": "🇬🇧",
-        "cover": "https://thumbnails.libretro.com/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/Named_Boxarts/Chrono%20Trigger%20(Europe).png",
+        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Chrono%20Trigger%20(USA).png",
         "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Chrono%20Trigger.smc"
     },
     {
         "id": "ClockTower",
         "name": "Clock Tower",
         "region": "🇪🇸",
-        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Clock%20Tower%20(Europe)%20(En%2CFr%2CDe%2CIt).png",
+        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Clock%20Tower%20(Japan)%20(Beta).png",
         "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Clock%20Tower.smc"
     },
     {
@@ -178,42 +178,42 @@
         "id": "DragonsLair",
         "name": "Dragon's Lair",
         "region": "🇬🇧",
-        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Dragon's%20Lair%20(Europe).png",
+        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Dragon's%20Lair%20(USA).png",
         "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Dragons%20Lair.sfc"
     },
     {
         "id": "EarthwormJim",
         "name": "Earthworm Jim",
         "region": "🇬🇧",
-        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Earthworm%20Jim%20(Europe)%20(En%2CFr%2CDe%2CIt%2CSp).png",
+        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Earthworm%20Jim%20(USA).png",
         "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Earthworm%20Jim.smc"
     },
     {
         "id": "EarthwormJim2",
         "name": "Earthworm Jim 2",
         "region": "🇬🇧",
-        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Earthworm%20Jim%202%20(Europe)%20(En%2CFr%2CDe%2CIt%2CSp).png",
+        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Earthworm%20Jim%202%20(USA)%20(Beta).png",
         "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Earthworm%20Jim%202.sfc"
     },
     {
         "id": "GradiusIII",
         "name": "Gradius III",
         "region": "🇬🇧",
-        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Gradius%20III%20(Europe).png",
+        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Gradius%20III%20(USA).png",
         "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Gradius%20III.sfc"
     },
     {
         "id": "IllusionOfGaia",
         "name": "Illusion of Gaia",
         "region": "🇬🇧",
-        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Illusion%20of%20Gaia%20(Europe).png",
+        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Illusion%20of%20Gaia%20(USA)%20(Beta).png",
         "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Illusion%20of%20Gaia.sfc"
     },
     {
         "id": "SpaceInvaders",
         "name": "Space Invaders",
         "region": "🇪🇸",
-        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Space%20Invaders%20(Europe)%20(En%2CFr%2CDe%2CIt%2CEsp%2CDu%2CPo%2CNl).png",
+        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Space%20Invaders%20(USA).png",
         "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Space%20Invaders.sfc"
     }
 ]
