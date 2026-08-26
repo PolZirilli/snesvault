@@ -49,13 +49,6 @@
         "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Final%20Fight%20(ESP)%20-%20Sin%20Censura%20-.sfc"
     },
     {
-        "id": "FinalFight2",
-        "name": "Final Fight 2",
-        "region": "🇪🇸",
-        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Final%20Fight%202%20(USA).png",
-        "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Final%20Fight%202%20(ESP).fig"
-    },
-    {
         "id": "FinalFight3",
         "name": "Final Fight 3",
         "region": "🇪🇸",
@@ -161,25 +154,11 @@
         "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Chrono%20Trigger.smc"
     },
     {
-        "id": "ClockTower",
-        "name": "Clock Tower",
-        "region": "🇪🇸",
-        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/598e5e867c41fb80515c2292f0ffbb00e68d9a3e/Named_Boxarts/Clock%20Tower%20(USA).png",
-        "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Clock%20Tower.smc"
-    },
-    {
         "id": "DemolitionMan",
         "name": "Demolition Man",
         "region": "🇪🇸",
         "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Demolition%20Man%20(USA).png",
         "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Demolition%20Man.sfc"
-    },
-    {
-        "id": "DragonsLair",
-        "name": "Dragon's Lair",
-        "region": "🇬🇧",
-        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Dragon's%20Lair%20(USA).png",
-        "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Dragons%20Lair.sfc"
     },
     {
         "id": "EarthwormJim",
