@@ -182,20 +182,6 @@
         "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Gradius%20III.sfc"
     },
     {
-        "id": "IllusionOfGaia",
-        "name": "Illusion of Gaia",
-        "region": "🇬🇧",
-        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/598e5e867c41fb80515c2292f0ffbb00e68d9a3e/Named_Boxarts/Illusion%20of%20Gaia%20(USA).png",
-        "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Illusion%20of%20Gaia.sfc"
-    },
-    {
-        "id": "SpaceInvaders",
-        "name": "Space Invaders",
-        "region": "🇪🇸",
-        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Space%20Invaders%20(USA).png",
-        "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Space%20Invaders.sfc"
-    },
-    {
         "id": "JurassicPark2",
         "name": "Jurassic Park 2: The Chaos Continues",
         "region": "🇪🇸",
