@@ -1,4 +1,3 @@
-
 [
     {
         "id": "ContraIIITheAlienWars",
@@ -48,13 +47,6 @@
         "region": "🇪🇸",
         "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Final%20Fight%20(USA).png",
         "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Final%20Fight%20(ESP)%20-%20Sin%20Censura%20-.sfc"
-    },
-    {
-        "id": "FinalFight3",
-        "name": "Final Fight 3",
-        "region": "🇪🇸",
-        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/598e5e867c41fb80515c2292f0ffbb00e68d9a3e/Named_Boxarts/Final%20Fight%203%20(USA).png",
-        "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Final%20Fight%203%20(ESP).sfc"
     },
     {
         "id": "Flashback",
