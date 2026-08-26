@@ -185,56 +185,42 @@
         "id": "JurassicPark2",
         "name": "Jurassic Park 2: The Chaos Continues",
         "region": "🇪🇸",
-        "cover": "",
+        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/598e5e867c41fb80515c2292f0ffbb00e68d9a3e/Named_Boxarts/Jurassic%20Park%20Part%202%20-%20The%20Chaos%20Continues%20(USA)%20(En%2CFr%2CDe%2CIt).png",
         "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Jurassic%20Park%202%20-%20The%20Chaos%20Continues.smc"
     },
     {
         "id": "KirbysAvalanche",
         "name": "Kirby's Avalanche",
         "region": "🇬🇧",
-        "cover": "",
+        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/598e5e867c41fb80515c2292f0ffbb00e68d9a3e/Named_Boxarts/Kirby's%20Avalanche%20(USA).png",
         "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Kirby's%20Avalanche.smc"
     },
     {
         "id": "KrustysSuperFunHouse",
         "name": "Krusty's Super Fun House",
         "region": "🇪🇸",
-        "cover": "",
+        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/598e5e867c41fb80515c2292f0ffbb00e68d9a3e/Named_Boxarts/Krusty's%20Super%20Fun%20House%20(USA).png",
         "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Krusty's%20Super%20Fun%20House.smc"
-    },
-    {
-        "id": "LastActionHero",
-        "name": "Last Action Hero",
-        "region": "🇪🇸",
-        "cover": "",
-        "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Last%20Action%20Hero.sfc"
     },
     {
         "id": "MicroMachines2",
         "name": "Micro Machines 2: Turbo Tournament",
         "region": "🇬🇧",
-        "cover": "",
+        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/598e5e867c41fb80515c2292f0ffbb00e68d9a3e/Named_Boxarts/Micro%20Machines%202%20-%20Turbo%20Tournament%20(Europe).png",
         "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Micro%20Machines%202%20-%20Turbo%20Tournament.sfc"
     },
     {
         "id": "NinjaGaidenTrilogy",
         "name": "Ninja Gaiden Trilogy",
         "region": "🇬🇧",
-        "cover": "",
+        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/598e5e867c41fb80515c2292f0ffbb00e68d9a3e/Named_Boxarts/Ninja%20Gaiden%20Trilogy%20(USA).png",
         "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Ninja%20Gaiden%20Trilogy.smc"
-    },
-    {
-        "id": "Paperboy2",
-        "name": "Paperboy 2",
-        "region": "🇬🇧",
-        "cover": "",
-        "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Paperboy%202.smc"
     },
     {
         "id": "StarFox",
         "name": "Star Fox",
         "region": "🇬🇧",
-        "cover": "",
+        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/598e5e867c41fb80515c2292f0ffbb00e68d9a3e/Named_Boxarts/Star%20Fox%20(USA).png",
         "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Star%20Fox.smc"
     }
 ]
