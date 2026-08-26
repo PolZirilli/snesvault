@@ -1,3 +1,4 @@
+
 [
     {
         "id": "ContraIIITheAlienWars",
@@ -163,21 +164,21 @@
     {
         "id": "EarthwormJim",
         "name": "Earthworm Jim",
-        "region": "🇬🇧",
+        "region": "🇪🇸",
         "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Earthworm%20Jim%20(USA).png",
         "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Earthworm%20Jim.smc"
     },
     {
         "id": "EarthwormJim2",
         "name": "Earthworm Jim 2",
-        "region": "🇬🇧",
+        "region": "🇪🇸",
         "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/598e5e867c41fb80515c2292f0ffbb00e68d9a3e/Named_Boxarts/Earthworm%20Jim%202%20(USA).png",
         "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Earthworm%20Jim%202.sfc"
     },
     {
         "id": "GradiusIII",
         "name": "Gradius III",
-        "region": "🇬🇧",
+        "region": "🇪🇸",
         "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Gradius%20III%20(USA).png",
         "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Gradius%20III.sfc"
     },
@@ -191,7 +192,7 @@
     {
         "id": "KirbysAvalanche",
         "name": "Kirby's Avalanche",
-        "region": "🇬🇧",
+        "region": "🇪🇸",
         "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/598e5e867c41fb80515c2292f0ffbb00e68d9a3e/Named_Boxarts/Kirby's%20Avalanche%20(USA).png",
         "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Kirby's%20Avalanche.smc"
     },
@@ -205,22 +206,85 @@
     {
         "id": "MicroMachines2",
         "name": "Micro Machines 2: Turbo Tournament",
-        "region": "🇬🇧",
+        "region": "🇪🇸",
         "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/598e5e867c41fb80515c2292f0ffbb00e68d9a3e/Named_Boxarts/Micro%20Machines%202%20-%20Turbo%20Tournament%20(Europe).png",
         "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Micro%20Machines%202%20-%20Turbo%20Tournament.sfc"
     },
     {
         "id": "NinjaGaidenTrilogy",
         "name": "Ninja Gaiden Trilogy",
-        "region": "🇬🇧",
+        "region": "🇪🇸",
         "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/598e5e867c41fb80515c2292f0ffbb00e68d9a3e/Named_Boxarts/Ninja%20Gaiden%20Trilogy%20(USA).png",
         "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Ninja%20Gaiden%20Trilogy.smc"
     },
     {
         "id": "StarFox",
         "name": "Star Fox",
-        "region": "🇬🇧",
+        "region": "🇪🇸",
         "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/598e5e867c41fb80515c2292f0ffbb00e68d9a3e/Named_Boxarts/Star%20Fox%20(USA).png",
         "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Star%20Fox.smc"
+    },
+    {
+        "id": "Pinocchio",
+        "name": "Pinocchio",
+        "region": "🇪🇸",
+        "cover": "https://github.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/blob/598e5e867c41fb80515c2292f0ffbb00e68d9a3e/Named_Boxarts/Pinocchio%20(USA).png?raw=true",
+        "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Pinocchio.sfc"
+    },
+    {
+        "id": "PrinceOfPersia",
+        "name": "Prince of Persia",
+        "region": "🇪🇸",
+        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/598e5e867c41fb80515c2292f0ffbb00e68d9a3e/Named_Boxarts/Prince%20of%20Persia%20(USA).png",
+        "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Prince%20of%20Persia.smc"
+    },
+    {
+        "id": "PrinceOfPersia2",
+        "name": "Prince of Persia 2: The Shadow & The Flame",
+        "region": "🇪🇸",
+        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/598e5e867c41fb80515c2292f0ffbb00e68d9a3e/Named_Boxarts/Prince%20of%20Persia%202%20(USA).png",
+        "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Prince%20of%20Persia%202%20-%20The%20Shadow%20%26%20The%20Flame.smc"
+    },
+    {
+        "id": "SuperCastlevaniaIV",
+        "name": "Super Castlevania IV",
+        "region": "🇪🇸",
+        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/598e5e867c41fb80515c2292f0ffbb00e68d9a3e/Named_Boxarts/Super%20Castlevania%20IV%20(USA).png",
+        "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Super%20Castlevania%20IV.smc"
+    },
+    {
+        "id": "SuperGhoulsNGhosts",
+        "name": "Super Ghouls'n Ghosts",
+        "region": "🇪🇸",
+        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/598e5e867c41fb80515c2292f0ffbb00e68d9a3e/Named_Boxarts/Super%20Ghouls%20'N%20Ghosts%20(USA).png",
+        "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Super%20Ghouls'n%20Ghosts.sfc"
+    },
+    {
+        "id": "Pitfall",
+        "name": "Pitfall - The Mayan Adventure",
+        "region": "🇪🇸",
+        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/598e5e867c41fb80515c2292f0ffbb00e68d9a3e/Named_Boxarts/Pitfall%20-%20The%20Mayan%20Adventure%20(USA).png",
+        "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Pitfall%20-%20The%20Mayan%20Adventure.sfc"
+    },
+    {
+        "id": "Where-in-the-World-is-Carmen-Sandiego",
+        "name": "Where in the World is Carmen Sandiego?",
+        "region": "🇪🇸",
+        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/598e5e867c41fb80515c2292f0ffbb00e68d9a3e/Named_Boxarts/Where%20in%20the%20World%20Is%20Carmen%20Sandiego%20(USA)%20(En%2CFr%2CDe%2CEs%2CIt).png",
+        "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Where%20in%20the%20World%20is%20Carmen%20Sandiego.sfc"
+    },
+    {
+        "id": "X-Men-Mutant-Apocalypse",
+        "name": "X-Men - Mutant Apocalypse",
+        "region": "🇪🇸",
+        "cover": "https://github.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/blob/598e5e867c41fb80515c2292f0ffbb00e68d9a3e/Named_Boxarts/X-Men%20-%20Mutant%20Apocalypse%20(USA).png?raw=true",
+        "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/X-Men%20-%20Mutant%20Apocalypse.smc"
+    },
+    {
+        "id": "TomAndJerry",
+        "name": "Tom & Jerry",
+        "region": "🇪🇸",
+        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/598e5e867c41fb80515c2292f0ffbb00e68d9a3e/Named_Boxarts/Tom%20and%20Jerry%20(USA).png",
+        "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Tom%20%26%20Jerry.smc"
     }
 ]
