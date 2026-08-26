@@ -78,8 +78,8 @@ select {
     align-items: center;
     justify-content: space-between;
     flex-wrap: wrap;
-    gap: 0.85rem;
     max-width: 1400px;
+    gap: 0.85rem;
     margin: 1.25rem auto;
     padding: 0rem 1.25rem;
 }
@@ -135,9 +135,11 @@ select {
     .site-header {
         justify-content: center;
     }
+
     .brand-logo {
         width: 138px;
     }
+
     .vault-nav-icon {
         width: 72px;
         height: 48px;
