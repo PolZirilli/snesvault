@@ -582,9 +582,9 @@ canvas#splashCanvas {
 
 .controls-popup {
     background: var(--panel);
-    border: 1px solid var(--border2);
+    border: 0px solid var(--border2);
     border-top: 3px solid var(--purple);
-    width: min(620px, 92vw);
+    width: min(680px, 92vw);
     max-height: 86vh;
     overflow-y: auto;
     padding: 24px;
