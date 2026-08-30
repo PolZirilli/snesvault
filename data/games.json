@@ -264,5 +264,12 @@
     "region": "🇪🇸",
     "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Aladdin%20(USA)%20(Beta).png",
     "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Aladdin.sfc"
+  },
+  {
+    "id": "aladdin",
+    "name": "Aladdin",
+    "region": "🇬🇧",
+    "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Aladdin%20(USA)%20(Beta).png",
+    "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Aladdin.sfc"
   }
 ]
