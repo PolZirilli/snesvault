@@ -257,5 +257,12 @@
     "region": "🇪🇸",
     "cover": "https://github.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/blob/598e5e867c41fb80515c2292f0ffbb00e68d9a3e/Named_Boxarts/X-Men%20-%20Mutant%20Apocalypse%20(USA).png?raw=true",
     "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/X-Men%20-%20Mutant%20Apocalypse.smc"
+  },
+  {
+    "id": "BikerMiceFromMars",
+    "name": "Biker Mice from Mars",
+    "region": "🇬🇧",
+    "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Biker%20Mice%20from%20Mars%20(USA).png",
+    "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Biker%20Mice%20from%20Mars.sfc"
   }
 ]
