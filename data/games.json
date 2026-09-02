@@ -285,5 +285,12 @@
     "region": "🇪🇸",
     "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Beavis%20and%20Butt-Head%20(USA).png",
     "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Beavis%20and%20Butt-Head.sfc"
+  },
+  {
+    "id": "BoogermanAPickAndFlickAdventure",
+    "name": "Boogerman - A Pick and Flick Adventure",
+    "region": "🇪🇸",
+    "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Boogerman%20-%20A%20Pick%20and%20Flick%20Adventure%20(USA).png",
+    "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Boogerman%20-%20A%20Pick%20and%20Flick%20Adventure.sfc"
   }
 ]
