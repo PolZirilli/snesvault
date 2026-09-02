@@ -264,5 +264,12 @@
     "region": "🇬🇧",
     "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Biker%20Mice%20from%20Mars%20(USA).png",
     "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Biker%20Mice%20from%20Mars.sfc"
+  },
+  {
+    "id": "BattletoadsInBattlemaniacs",
+    "name": "Battletoads in Battlemaniacs",
+    "region": "",
+    "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Battletoads%20in%20Battlemaniacs%20(USA)%20(Beta).png",
+    "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Battletoads%20in%20Battlemaniacs.sfc"
   }
 ]
