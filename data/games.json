@@ -306,5 +306,12 @@
     "region": "🇪🇸",
     "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Final%20Fantasy%20-%20Mystic%20Quest%20(USA)%20(Rev%201).png",
     "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Final%20Fantasy%20-%20Mystic%20Quest.smc"
+  },
+  {
+    "id": "MarvelSuperHeroesInWarOfTheGems",
+    "name": "Marvel Super Heroes in War of the Gems",
+    "region": "🇪🇸",
+    "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Marvel%20Super%20Heroes%20in%20War%20of%20the%20Gems%20(USA).png",
+    "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Marvel%20Super%20Heroes%20in%20War%20of%20the%20Gems.sfc"
   }
 ]
