@@ -292,5 +292,12 @@
     "region": "🇪🇸",
     "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Boogerman%20-%20A%20Pick%20and%20Flick%20Adventure%20(USA).png",
     "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Boogerman%20-%20A%20Pick%20and%20Flick%20Adventure.sfc"
+  },
+  {
+    "id": "CastlevaniaDraculaX",
+    "name": "Castlevania - Dracula X",
+    "region": "🇪🇸",
+    "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Castlevania%20-%20Dracula%20X%20(USA).png",
+    "url": "https://pub-13140bd15eda49b4a3f35bc937ab1c58.r2.dev/projects/snesvault/Castlevania%20-%20Dracula%20X.sfc"
   }
 ]
